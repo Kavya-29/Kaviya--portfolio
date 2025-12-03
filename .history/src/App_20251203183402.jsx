@@ -636,7 +636,7 @@ function App() {
       )}
 
       {/* CONNECT */}
-      <Section id="Let's" title="Connect" eyebrow="CONTACT">
+      <Section id="Let" title="Connect" eyebrow="CONTACT">
         <motion.div
           initial={{ opacity: 0, y: 24 }}
           whileInView={{ opacity: 1, y: 0 }}
